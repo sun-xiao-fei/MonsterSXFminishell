@@ -1,0 +1,7 @@
+# MonsterSXFshell
+Linux下minishell的实现：
+    *支持ls,touch,wc 等外部命令
+    *支持cd,jobs,kill,exit等内部命令
+    *支持管道命令
+    *支持对ctrl+c 和ctrl +z 信号的处理
+    *支持后台作业
